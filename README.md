@@ -66,6 +66,6 @@ Follow these best practices to create clear, effective, and aesthetically pleasi
 
 Find links to more tutorials, documentation, and community support to continue your Seaborn journey.
 
-Seaborn Official Documentation
-Seaborn GitHub Repository
-Stack Overflow Seaborn Questions
+- [Seaborn Official Documentation](https://seaborn.pydata.org/)
+- [Seaborn GitHub Repository](https://github.com/mwaskom/seaborn)
+- [Stack Overflow Seaborn Questions](https://stackoverflow.com/questions/tagged/seaborn)
